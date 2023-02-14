@@ -3,6 +3,7 @@ Maxwill Isaacs(Nodejs) &
 Brandon Swinton(Mysql)
 
 MYSQL
+
 module.exports = {
     HOST: "bmxegzjhcdkzwzucx5xc-mysql.services.clever-cloud.com",
     USER: "ubdldcz2m7ujwx7m", 
